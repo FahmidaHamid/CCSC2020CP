@@ -1,0 +1,323 @@
+#proposal
+Project Title: Teaching Machines to Reason on Texts
+
+Reviewer A >>
+
+The project is about understanding the text in a deeper level to answer questions asked by the reader. There would be two or three supporting facts to get to correct answers. Deduction would be used when the data is mature enough. 
+The research problem was clearly stated (10). 
+Their ideas were interesting (10). 
+The strength of the project idea is that there are plenty of data to train the model on.
+The weakness of the project idea is that it might be hard to implement. 
+
+
+Reviewer B >>
+Summarize the project idea in few sentences >>
+    The project aims to develop QA model which takes complex questions as input and outputs accurate answers. It will use Facebook’s dataset.
+Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 7
+Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)>> 8
+State some strengths of the project idea >> Clean data available, Many available models in the same field, e.g. attention model
+State some weaknesses of the project idea >> Choosing the right model 
+
+Reviewer C >>
+
+ Que>> Summarize the project idea in few sentences. 
+This group is aiming at creating a machine that can understand the context described by a document and can answer questions based on the content of the document while the answers will not be immediately extractable from the text.
+
+ Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 8
+ Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)  >> 8
+ Que>> State some strengths of the project idea  >> The examples provided in the proposal make sense and look interesting. Leveraging memory in the QA system sounds good.
+ Que>> State some weaknesses of the project idea >> None
+
+
+Reviewer D >>
+
+Que>> Summarize the project idea in few sentences: 
+Their project focuses upon creating a QA model that will be able to reason through a given text document and determine which sentences of the document are the most important in reference to a given inquiry. To do this, they will be utilizing Facebook's bAbI dataset which contains various artificial documents. They will also apparently be following a list of different tasks to ensure that their model meets the standards.  
+ Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best): 
+9
+They stated where other QA models are faulty and this information was helpful in determining 
+ Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best): 
+9
+It is easy to determine why their work is useful to the population (because reasoning texts will be helpful for students). 
+ Que>> State some strengths of the project idea: 
+I think this project is quite ambitious so that's a definite strength since it appears that this group will always be working on something new. 
+Another strength of this project is how they have shown that they have done their research as to what is needed for them to prepare adequately for this project and what resources already exist for them to utilize. 
+ Que>> State some weaknesses of the project idea
+A weakness of this project idea would be that the way how the QA method works seems a bit vague. However, this can be easily resolved. 
+
+Reviewer E >>
+
+Que>> Summarize the project idea in few sentences. 
+The project uses a question-answer model to gather information from sequential text data as an answer in response to a question. The goal is to improve the reasoning abilities of a QA model in order to better comprehend and take advantage of sequential data to answer complex questions.
+
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)  >> 7
+
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)  >> 9
+
+Que>> State some strengths of the project idea 
+The data set has a wide range of information from multiple domains, and has potential to be applicable in contemporary internet search engines.
+
+Que>> State some weaknesses of the project idea 
+It relies on using a data set of basic text inputs, which is not reflective of the bulk of the text that exists on the internet.
+
+ 
+Reviewer F >>
+
+>> Summarize the project idea in few sentences.
+
+The project’s goal is to develop a question-answering model that can handle sequential knowledge embedded in texts and answer complex questions such as “how” and “why” questions. This project will be based on Dynamic Memory Networks.
+
+>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 10
+>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 9
+>> State some strengths of the project idea
+
+1. I can imagine that once successfully developed, this model will be beneficial to both academia and ordinary users. This model will definitely be a concrete step toward machine intelligence.
+
+2. It is very good that the state-of-art models was introduced in the proposal. Having some hypothesis about Bidirectional GRU or LSTM is also helpful in determining research directions.
+
+>> State some weaknesses of the project idea
+
+1. This could be a challenging project, since we did not study QA systems and techniques. Without prior study, innovation can be tough.
+
+2. The research question is a little bit too general, which also adds complexity to the project. For example, the type of texts to be learned from is not determined. Expository essays are different from poems in this case.
+
+
+
+
+# review:
+
+Project Title: A study of key-phrase extraction on celebrity tweets
+
+Reviewer A >>
+
+The project is about Analyzing the information about the celebrity individuals by extracting the key words from the twitter. To discern the accuracy or precision of the keywords, the group will evaluate through monkey learn, a company that serves to better curate to customers for better marketing, and compare with company’s algorithm result. The project plans on expanding onto more celebrities as the algorithm matures.
+The research problem was clearly stated (10). 
+Their ideas were interesting (10). 
+The strength of the project idea is that there are plenty of celebrities using twitter, and that the texts are short and not as complicated as other forms of text data.
+The weakness of the project idea is that it would be a challenge to extract the data if they can’t get the twitter developer account permission. 
+
+Reviewer B >>
+
+The project aims to provide illustrations of celebrity tweets using key-phrase extraction model.  
+Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 8
+Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 6
+State some strengths of the project idea >> Twitter provides its API. Many twitter models have done in the past.
+State some weaknesses of the project idea >> Not sure if the research creates much value
+
+Reviewer C >>
+
+Que>> Summarize the project idea in few sentences. 
+This group is aiming at extracting keywords from celebrities' twitters using several existing techniques.
+
+ Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)  >> 8
+ Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 8
+ Que>> State some strengths of the project idea >> Twitter developer account is pretty easy to get. Don't worry.
+ Que>> State some weaknesses of the project idea >> Probably better to put MonkeyLearn into the pool of keyword extraction techniques to test? And solely use human metric to evaluate all those techniques
+
+
+Reviewer D >>
+
+Que>> Summarize the project idea in few sentences.
+This research is focused on the key-phrase extraction from a celebrity's Tweets, which is non-scholarly articles. The research would create a word cloud with key-phrases of the Tweets. The research will use the TextRank algorithm to extract.
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 10
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 9
+Que>> State some strengths of the project idea >> It was clear how the research would process from proposal and presentation. 
+Que>> State some weaknesses of the project idea
+I was not sure about which criteria should be used to select the one celebrity tweeter account within one-month and how to collect students for building the golden standard dataset. It would be better with several celebrities in the beginning phrase if that is possible. There might be personal bias towards key-phrase extraction especially if tweets are from a celebrity.  
+If the MonkeyLearn is extracting key-word from commercials and the research was based on non-commercial celebrity, i'm not sure but there might be different criteria.
+
+Reviewer E >>
+
+>> Summarize the project idea in few sentences.
+
+The project’s goal is to extract key phrases from tweets of a chosen celebrity. The project will develop on previous key phrase extraction methods with consideration of synonym word groups. Word clouds are presented as final products.
+
+>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 10
+
+>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 7
+>> State some strengths of the project idea
+
+1. Word clouds are good visual representations that reflect importance/frequencies of words.
+
+2. It is very good to have concrete, detailed steps of the project and additional ideas.
+
+>> State some weaknesses of the project idea
+
+1. This is neither a survey nor an innovative research. Very much of this project is an application of an existing method. In my opinion, there is not enough contribution.
+
+2. Data size is a little bit too small. One celebrity’s tweets within a month can be too few to extract correct key phrases.
+
+
+Reviewer F >>
+
+Que>> Summarize the project idea in a few sentences.
+Extract keyphrases from one-month tweets from a Twitter user and visualize the popular keyphrases by word cloud. 
+Que>> Is the research problem clearly stated? 9
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  6
+Que>> State some strengths of the project idea
+The project sounds fun to play with when the product is finished. 
+Que>> State some weaknesses of the project idea
+It would be great if this is a product idea to visualize anyone's tweets. 
+
+
+#review
+
+Project Title: Information Desk
+
+Reviewer A >>
+
+The project focuses on answering open ended question and open domain question. The group would search the query on google to find important phrases and merge it with other collected supposed data to produce a result that would be satisfying to the user. They plan on evaluating the algorithm through human evaluation and also calculating it with precision, recall, and accuracy.
+The research problem was clearly stated (10). 
+Their ideas were interesting (10). 
+The strength of the project idea is that this is a very new field of research and would contribute to the information retrieval field significantly.
+The weakness of the project idea is that it would be a challenge to produce an accurate result.
+
+Reviewer B >>
+ 
+The project aims to develop a QA system that can deal with open-ended, open-domain questions. 
+Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)>> 8
+Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)>> 9
+State some strengths of the project idea. >> New, interesting idea
+State some weaknesses of the project idea. >> A limited number of models and resources
+
+
+Reviewer C >>
+
+Que>> Summarize the project idea in few sentences.
+The research is developing QA model for open-ended questions and open-domain. This means there is no one answer and not restricted to a certain topic. The data used for testing performance is Google's NQ, TAC 2008, and TREC CAR, and WikiQA.
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)10
+     : The examples helped me to understand the research problem.
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 10
+Que>> State some strengths of the project idea >> Connection to Google (the Internet web that is not limited to Wikipedia) is very interesting. 
+Que>> State some weaknesses of the project idea >> The evaluation process seems not clear for sampling the participants. 
+
+Reviewer D >>
+
+Que>> Summarize the project idea in few sentences:
+This project focuses on expanding current QA models to make the answers received from such models to be more relatable to users by summarizing various answers into one cohesive answer which is written in plain English. 
+Que>> Is the research problem clearly stated?: 
+10 
+They really delved as to what problems they were addressing (ex: how current QA models give answers which do not always sound as if they come from a human) 
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?: 
+10 
+Yes, they stated why their changes would be relevant to a variety of users who utilize QA models. 
+Que>> State some strengths of the project idea:
+A strength of their project idea is how they have clearly described where the idea for their project came from and why it's useful. They also included an example that allows readers to easily follow along with their proposal. 
+Que>> State some weaknesses of the project idea: 
+A weakness of the project idea is that they do not adequately describe how they will be presenting their model to users for testing and use- which would have been nice to know. 
+
+Reviewer E >>
+
+Que>> Summarize the project idea in few sentences. 
+
+Current search engines' and virtual assistants' abilities to answer open-ended questions from a user are rather limited The project uses a question-answer model to help expand a machine's abilities to answer open-ended causal, hypothetical, and opinion questions.
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 10
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 8
+
+Que>> State some strengths of the project idea 
+The project timeline is detailed and comprehensive, and its applicability is clear and desirable.
+
+Que>> State some weaknesses of the project idea 
+The proposal isn't clear on how exactly the database will be created, and what all sources it will use to create it. In general there is much more information about context and applicability than there is on how the program will be built and implemented.
+
+Reviewer F >>
+
+Que>> Summarize the project idea in a few sentences.
+The project aims to create a QA system that is able to answer open-ended questions, by retrieving information from the Web and synthesize multiple top answers to product a pleasing-sounding answer.
+Que>> Is the research problem clearly stated? 10
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  10
+Que>> State some strengths of the project idea
+The project idea is very interesting and is definitely a very powerful idea for QA tasks. 
+Que>> State some weaknesses of the project idea
+The data format for the NQ dataset is not clearly stated. Are these answers contain only a single word? If not, maybe you should think about another loss function that also counts for synonyms, etc. Since the question-answer pair is open-ended, using cosine similarity as a loss function might be quite unfair. Moreover, there are words that are weighted heavier than others (the, an, etc. are not important). Then it would be great if you can design a loss function that captures this different. 
+
+
+
+#review
+
+Project Title:  Key-phrase extraction of youtube video transcripts
+ 
+Reviewer A >>
+
+Que>> Summarize the project idea in few sentences.  >> This group is aiming at summarizing youtube transcripts for youtube videos using textrank.
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 8
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)  >> 8
+Que>> State some strengths of the project idea>> Youtube is indeed a powerful source of data. Utilizing it is a very smart choice.
+Que>> State some weaknesses of the project idea >> For evaluation, the automatic one might not work since the top frequency keywords are extracted in a even simpler way than the proposed method. Thus those words should not serve as the evaluation standard.
+
+
+Reviewer B >>
+
+Que>> Summarize the project idea in few sentences.>> This research is focused on key-phrase extraction by YouTube transcripts using the TextRank algorithm and knowledge-base. The data would be collected from YouTube API and focus on the academic or self-development categories. The evaluation would be by comparing different measures of TextRank and 10 most frequent words.    
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 7 
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)7
+     : This is interesting but this might be redundant to the impact of tags and titles of the Youtube video depends on the category of video. Lecture videos on Youtube tend to have good titles, tags, summaries attached. 
+Que>> State some strengths of the project idea>>The algorithm used for research is determined: TextRank.
+Que>> State some weaknesses of the project idea>> Golden standard dataset by researchers might include bias and also that might limit the number of possible Youtube.
+
+Reviewer C >>
+
+Que>> Summarize the project idea in few sentences: 
+Their project focuses on creating a dataset of YouTube transcripts and from each video's transcript they will be extracting the key-phrases from the transcript. Ultimately they have chosen to select around 10 or so keyphrases that they would utilize to describe the video. Upon completing the keyphrase extraction they then would compare it to a goldstandard of human selected keyphrases for each video (which will most likely be self-made by them). The will be limiting their focus on scholarly videos. 
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best): 
+3
+They don't really say where they got their idea from. I know they mention that their goal is "to see if extracted key-phrases can convey enough key information about the[a] video" but I would like to know why they think that is important. 
+
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best): 
+8
+Yes they have, I like how they mentioned that their results would assist in making search results a bit more accurate. However I question how a series of keywords will be helpful for summarizing an entire video transcription. 
+Que>> State some strengths of the project idea
+They have clearly defined what their model will be based of off (Text-Rank). 
+Why their project is important was easily understandable.
+Que>> State some weaknesses of the project idea
+They lack an abstract for their project. 
+They do not define how they will expand their model instead of just using Text-Rank itself. 
+
+Reviewer D >>
+
+Que>> Summarize the project idea in few sentences. 
+The project uses key-phrase extraction to collect transcripts from YouTube video captions and identify the most important phrases in each transcript. The goal is to provide an accurate core description of an educational lecture video that may or may not reflect the summary provided by the owner of said video.
+
+Que>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best) >> 8
+
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)  >> 9
+
+Que>> State some strengths of the project idea
+
+It helps to fill in gaps left where user-provided text summaries of YouTube videos fall short, which is definitely a real frustration when searching for specific YouTube videos. It also gives a clear description of what their methods will be and what resources they will utilize.
+
+Que>> State some weaknesses of the project idea 
+
+The domain is a bit too restrictive, and doesn't reflect the general content of YouTube as most of YouTube is not scholarly. It also acknowledges that YouTube's Closed Captioning services are error-prone, but doesn't fully explain how they'll work around that.
+
+Reviewer E >>
+
+>> Summarize the project idea in few sentences.
+The project’s goal is to develop a key-phrase extraction model that can summarize important contents from a YouTube video’s captions.
+
+>> Is the research problem clearly stated? (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)>> 10
+>> Have they explained clearly why their idea is interesting and impactful to some parties?  (use a numeric scale from 1 to 10, 1 being the worst and 10 being the best)>> 10
+>> State some strengths of the project idea
+
+1. This innovative project can be practically useful to many people by saving their time and resources. It is a meaningful project!
+
+2. TextRank is smartly employed for evaluation and comparison purpose.
+
+>> State some weaknesses of the project idea
+
+1. Captions of YouTube videos can come from different sources (user uploaded ones, auto-generated ones, etc.) and different languages. You should pick one category of captions for consistence.
+
+2. Handling of errors in gold captions is not discussed.
+
+Reviewer F >>
+
+Que>> Summarize the project idea in a few sentences.
+Query transcripts from Youtube videos and extract keywords for the transcript. 
+Que>> Is the research problem clearly stated? 9
+Que>> Have they explained clearly why their idea is interesting and impactful to some parties?  8
+Que>> State some strengths of the project idea
+Automatically generate keywords for videos are a very interesting idea. The project idea can be scaled to videos in general. 
+Que>> State some weaknesses of the project idea
+It might be very hard to create labels (keywords) for each transcript. The dataset might not be large enough for any practical use. 
+
+
